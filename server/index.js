@@ -1,3 +1,3 @@
 const library = require('./library');
 
-library.sayHello();
+library.printValue();

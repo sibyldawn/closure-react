@@ -1,7 +1,7 @@
 const value = 5;
 
 module.exports = {
-  sayHello: function() {
+  printValue: function() {
     console.log('The value is ' + value);
   },
 };
